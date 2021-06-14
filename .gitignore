@@ -1,0 +1,6 @@
+build
+node_modules
+*error.log
+*.log
+.env
+yarn.lock
